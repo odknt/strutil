@@ -1,6 +1,6 @@
 # strutil
 
-[![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/odknt/strutil/master/LICENSE) [![Coverage](http://gocover.io/_badge/github.com/odknt/strutil)](http://gocover.io/github.com/odknt/strutil) [![Build Status](https://api.travis-ci.com/odknt/strutil.svg?branch=master)](https://travis-ci.com/odknt/strutil)
+[![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/odknt/strutil/master/LICENSE) [![Coverage](https://gocover.io/_badge/github.com/odknt/strutil)](https://gocover.io/github.com/odknt/strutil) [![Build Status](https://api.travis-ci.com/odknt/strutil.svg?branch=master)](https://travis-ci.com/odknt/strutil)
 
 Provides utility functions for string and byte slice that no use heap.
 
